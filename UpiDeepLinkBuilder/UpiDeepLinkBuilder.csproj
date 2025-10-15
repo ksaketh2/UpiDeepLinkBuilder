@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>net9.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<PackageId>UpiDeepLinkBuilder</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>ksaketh2</Authors>
+		<Company>ksaketh2</Company>
+		<Description>A library for building and parsing UPI (NPCI) DeepLinks, written in .NET.</Description>
+		<RepositoryUrl>https://github.com/YourUsername/MyLibrary</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>
