@@ -7,6 +7,9 @@ using TechTonix.UpiDeepLinkBuilder.Models;
 
 namespace TechTonix.UpiDeepLinkBuilder.Services
 {
+    /// <summary>
+    /// For building UPI deep link URLs.
+    /// </summary>
     public sealed class UpiBuilder
     {
         private UpiTransaction _transactionObj = new UpiTransaction();
