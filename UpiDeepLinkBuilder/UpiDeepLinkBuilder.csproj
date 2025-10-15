@@ -12,7 +12,7 @@
 		<Authors>ksaketh2</Authors>
 		<Company>ksaketh2</Company>
 		<Description>A library for building and parsing UPI (NPCI) DeepLinks, written in .NET.</Description>
-		<RepositoryUrl>https://github.com/YourUsername/MyLibrary</RepositoryUrl>
+		<RepositoryUrl>https://github.com/ksaketh2/UpiDeepLinkBuilder</RepositoryUrl>
 	</PropertyGroup>
 
 </Project>
